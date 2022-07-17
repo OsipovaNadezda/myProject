@@ -1,1 +1,1 @@
-(()=>{"use strict";console.log("my menu"),console.log("burger"),console.log("my slider"),console.log("best slider")})();
+(()=>{"use strict";console.log("I am the first module"),console.log("I am the second module")})();
